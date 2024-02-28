@@ -1,0 +1,15 @@
+/Users/ilyafoxsis/Programming/proga/laba1/bin/Debug/net7.0/laba1
+/Users/ilyafoxsis/Programming/proga/laba1/bin/Debug/net7.0/laba1.deps.json
+/Users/ilyafoxsis/Programming/proga/laba1/bin/Debug/net7.0/laba1.runtimeconfig.json
+/Users/ilyafoxsis/Programming/proga/laba1/bin/Debug/net7.0/laba1.dll
+/Users/ilyafoxsis/Programming/proga/laba1/bin/Debug/net7.0/laba1.pdb
+/Users/ilyafoxsis/Programming/proga/laba1/obj/Debug/net7.0/laba1.csproj.AssemblyReference.cache
+/Users/ilyafoxsis/Programming/proga/laba1/obj/Debug/net7.0/laba1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyafoxsis/Programming/proga/laba1/obj/Debug/net7.0/laba1.AssemblyInfoInputs.cache
+/Users/ilyafoxsis/Programming/proga/laba1/obj/Debug/net7.0/laba1.AssemblyInfo.cs
+/Users/ilyafoxsis/Programming/proga/laba1/obj/Debug/net7.0/laba1.csproj.CoreCompileInputs.cache
+/Users/ilyafoxsis/Programming/proga/laba1/obj/Debug/net7.0/laba1.dll
+/Users/ilyafoxsis/Programming/proga/laba1/obj/Debug/net7.0/refint/laba1.dll
+/Users/ilyafoxsis/Programming/proga/laba1/obj/Debug/net7.0/laba1.pdb
+/Users/ilyafoxsis/Programming/proga/laba1/obj/Debug/net7.0/laba1.genruntimeconfig.cache
+/Users/ilyafoxsis/Programming/proga/laba1/obj/Debug/net7.0/ref/laba1.dll
